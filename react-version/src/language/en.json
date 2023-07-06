@@ -1,0 +1,4 @@
+{
+    "testText" : "hello~~",
+    "hello" : "{{name.en}}, hello"
+  }
