@@ -1,12 +1,6 @@
 # react-i18next
 react-i18next 라이브러리 적용 연습
 
-2가지 version 존재(브랜치를 통해 나눔)
-- react-mode: React.js
-- next-mode: Next.js
-
-< react-version >
-
 1. react-i18next 다운로드
 -> npm install react-i18next i18next --save
 
